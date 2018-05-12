@@ -1,4 +1,8 @@
 _repo: The-Monster_47654
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47654-h/images/cover.jpg
 creator:
   author:
     agent_name: Saltus, Edgar
@@ -11,6 +15,8 @@ creator:
 description: Paris, in the early 1900s, is the setting for this domestic drama of
   women in obsessive relationships, marriage and adulterous, ultimately trying to
   find happiness.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47654#The-Monster
 gutenberg_issued: '2014-12-13'
 gutenberg_type: Text
 identifiers:
